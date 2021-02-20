@@ -13,3 +13,9 @@
 ## [![TextureWorker](TextureWorker.png)](https://pmzeroskyline.github.io/TextureWorker/)
 
 ### [*一款免费的轻量级批量图片属性修改器*](https://pmzeroskyline.github.io/TextureWorker/)
+
+
+
+
+
+由 guzhang0@gamil.com 提供支持 欢迎错误反馈
