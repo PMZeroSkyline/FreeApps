@@ -12,7 +12,7 @@
 ### [*一款免费的轻量级批量文件命名修改器* ](https://pmzeroskyline.github.io/ReNamer/)
 
 
-# [![HSVDebug](HSVDebugIcon.png) HSVDebug ( UE4插件 )](https://pmzeroskyline.github.io/HSVDebugWidget/)
+# [![HSVDebug](HSVDebugIcon.png) HSVDebug(UE4插件)](https://pmzeroskyline.github.io/HSVDebugWidget/)
 
 ## [![TextureWorker](HSVDebug.png)](https://pmzeroskyline.github.io/HSVDebugWidget/)
 
