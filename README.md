@@ -11,7 +11,6 @@
 
 ### [*一款免费的轻量级批量文件命名修改器* ](https://pmzeroskyline.github.io/ReNamer/)
 
-![me](icon.png)
+# 
 
-由 [guzhang0@gamil.com](https://github.com/PMZeroSkyline) 提供支持 欢迎错误反馈
-
+> ![TextureWorker](icon.png)由 [guzhang0@gamil.com](https://github.com/PMZeroSkyline) 提供支持 欢迎错误反馈
